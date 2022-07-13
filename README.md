@@ -62,6 +62,18 @@ LS = Lookup_Step = how many days in the future we want to predict
 E = Epochs = how often do we train our model
 
 # How to use the code
+### Import requirements
+You may need to install some of the libaries/modules that are used in this project.
+Please check if your python environment misses one of the following requirements:
+- tensorflow
+- sklearn
+- numpy
+- pandas
+- matplotlib
+- yahoo_fin
+- seaborn
+
+They can be installed via pip or conda.
 
 ### Training a new model
 
