@@ -1,7 +1,7 @@
 # DataExploration Project
 
 This is a project for the data science course WWI20DSB at the DHBW Mannheim.
-The projectgroup consists of:
+The project group consists of:
 
 - Oliver Hinkel
 - Antonino Piloro
