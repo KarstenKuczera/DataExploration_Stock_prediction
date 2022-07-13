@@ -57,8 +57,10 @@ Since this is a public repository, I disabled the ability to change stuff in the
 
 Inside this folder you can find two folders named after their stock.
 For each stock we have prepared 6 models.
-3 for predicting 1 Day ahead and 3 for predicting 15 days ahead and for both we have 50, 500, 1000 epochs.
+3 for predicting 1 day ahead and 3 for predicting 15 days ahead and for both we have 50, 500, 1000 epochs.
+
 LS = Lookup_Step = how many days in the future we want to predict
+
 E = Epochs = how often do we train our model
 
 # How to use the code
